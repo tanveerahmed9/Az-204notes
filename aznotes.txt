@@ -1,0 +1,49 @@
+<# started with resource groups
+
+1. Create resource groups
+Az204tut
+
+2. East US Location
+
+# virtual machine components
+
+1. Creating a VM in AZ port
+2. using AzureCLI and PowerShell
+3. CLoudShell
+4. Understanding VM states
+
+
+--- more on above
+
+. Create VM
+. assign HA and Replication
+. Storage 
+. Networking
+. Public IP
+. Network Security groups
+. 
+
+Task - Create Virtaul Network and Subnet (PSdemo-vnet-poral)
+
+task - Create the VM (Windows Sever 2016)  user - t.b.ahmed - password - TAENIAsolium@16
+task - Create the VM 2 (redhat Linux) user - tanveerahmed - password - TAENIAsolium@16
+task - all resources deleted
+
+
+. Ways to interact with Azure
+
+1. Azure Powershell (Windows PowerShell)
+2. Azue PowerShell core (V 7.0)
+3. Cloud shell (Brwoser based)
+
+
+. Persistent Data in in CLoudShell
+
+1. session state is not persistent (20 min inactivity timeout)
+2. uses azure files as backend store
+3. same storage backend when using PowerShell
+
+Install Azure CLI using web request
+
+#>
+
