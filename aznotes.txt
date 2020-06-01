@@ -47,3 +47,5 @@ Install Azure CLI using web request
 
 #>
 
+This is a side node for pull request
+
